@@ -7,8 +7,8 @@
       "releaseNotes": "不具合修正"
     },
     "android": {
-      "version": "1.3.9",
-      "buildNumber": 76,
+      "version": "1.4.0",
+      "buildNumber": 77,
       "minSupported": "1.2.0",
       "releaseNotes": "不具合修正"
     }
