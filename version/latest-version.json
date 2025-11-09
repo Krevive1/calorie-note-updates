@@ -1,16 +1,16 @@
 {
   "platforms": {
     "ios": {
-      "version": "1.3.9",
-      "buildNumber": 76,
+      "version": "1.4.0",
+      "buildNumber": 77,
       "minSupported": "1.2.0",
-      "releaseNotes": "ダークモードの実装、多言語化対応の完全化"
+      "releaseNotes": "不具合修正"
     },
     "android": {
       "version": "1.3.9",
       "buildNumber": 76,
       "minSupported": "1.2.0",
-      "releaseNotes": "ダークモードの実装、多言語化対応の完全化"
+      "releaseNotes": "不具合修正"
     }
   },
   "updatedAt": "2025-10-22T1:00:00Z"
