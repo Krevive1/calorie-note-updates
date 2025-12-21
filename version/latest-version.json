@@ -1,17 +1,17 @@
 {
   "platforms": {
     "ios": {
-      "version": "1.4.0",
-      "buildNumber": 77,
+      "version": "1.4.1",
+      "buildNumber": 78,
       "minSupported": "1.2.0",
-      "releaseNotes": "不具合修正"
+      "releaseNotes": "食事内容共有機能実装"
     },
     "android": {
-      "version": "1.4.0",
-      "buildNumber": 77,
+      "version": "1.4.1",
+      "buildNumber": 78,
       "minSupported": "1.2.0",
-      "releaseNotes": "不具合修正"
+      "releaseNotes": "食事内容共有機能実装"
     }
   },
-  "updatedAt": "2025-11-09T13:00:00Z"
+  "updatedAt": "2025-12-20T13:00:00Z"
 }
