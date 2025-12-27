@@ -1,17 +1,17 @@
 {
   "platforms": {
     "ios": {
-      "version": "1.4.1",
-      "buildNumber": 78,
+      "version": "1.4.2",
+      "buildNumber": 79,
       "minSupported": "1.2.0",
-      "releaseNotes": "食事内容共有機能実装"
+      "releaseNotes": "コンビニテンプレ機能実装"
     },
     "android": {
-      "version": "1.4.1",
-      "buildNumber": 78,
+      "version": "1.4.2",
+      "buildNumber": 79,
       "minSupported": "1.2.0",
-      "releaseNotes": "食事内容共有機能実装"
+      "releaseNotes": "コンビニテンプレ機能実装"
     }
   },
-  "updatedAt": "2025-12-20T13:00:00Z"
+  "updatedAt": "2025-12-27T13:00:00Z"
 }
